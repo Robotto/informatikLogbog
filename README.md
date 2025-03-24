@@ -15,11 +15,15 @@ Der kommer også et lækkert screenshot..
 Så snakkede vi faktisk også om kryptering
 
 ### Kriterier for kryptering
-* Sikkerhed - Ingen kan ændre min besked.
-* Privathed - Ingen andre end den man ønsker kan læse beskederne.
-* Verificérbarhed - Vi kan være sikre på at afsenderen er den den siger den er.
-* Hemmelighed - Ingen kan se hvem der skriver sammen.
+![Skema fra systime](https://github.com/user-attachments/assets/3e3f2bb2-bf0a-4cac-98db-352eb7a46764)
 
+
+[Link til kilde på systime.dk](https://informatik.systime.dk/?id=876)
+
+* Fortrolighed - Kun dem vi ønsker kan læse beskeden.
+* Dataintegritet - Ingen kan ændre min besked.
+* Uafviselighed - Vi kan være sikre på at afsenderen er den den siger den er. 
+* Autenticitet - Vi kan være sikre på at beskeden er uændret
 
 ### Symmetrisk vs Asymmetrisk kryptering
 
