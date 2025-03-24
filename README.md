@@ -15,10 +15,10 @@ Der kommer også et lækkert screenshot..
 Så snakkede vi faktisk også om kryptering
 
 ### Kriterier for kryptering
-Sikkerhed - Ingen kan ændre min besked.
-Privathed - Ingen andre end den man ønsker kan læse beskederne.
-Verificérbarhed - Vi kan være sikre på at afsenderen er den den siger den er.
-Hemmelighed - Ingen kan se hvem der skriver sammen.
+* Sikkerhed - Ingen kan ændre min besked.
+* Privathed - Ingen andre end den man ønsker kan læse beskederne.
+* Verificérbarhed - Vi kan være sikre på at afsenderen er den den siger den er.
+* Hemmelighed - Ingen kan se hvem der skriver sammen.
 
 
 ### Symmetrisk vs Asymmetrisk kryptering
