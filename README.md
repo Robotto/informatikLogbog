@@ -5,6 +5,7 @@ Dette er min logbog til informatik som jeg løbende lægger noter fra undervisni
 ## Programmering: p5js
 Programmering i javascript på p5.js
 [Et link til p5.js der aktiverer vibratoren i telefonen](https://editor.p5js.org/olafval/sketches/h62Aw3M7X)
+Der var vist også noget med nogle fancy trekanter.. der kommer måske et link her...
 
 ### Vektorting
 Vi har også leget med vektorer i p5, det kan man se her: (LINK)
