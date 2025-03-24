@@ -1,4 +1,4 @@
-# informatikLogbog
+# InformatikLogbog
 
 ## Emner
 
