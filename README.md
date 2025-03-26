@@ -11,6 +11,9 @@ Der var vist også noget med nogle fancy trekanter.. der kommer måske et link h
 Vi har også leget med vektorer i p5, det kan man se her: (LINK)
 Der kommer også et lækkert screenshot.. 
 
+### FLOWCHARTS! De er vigtige! Husk dem!
+[Flowchart Tutorial](https://www.visual-paradigm.com/tutorials/flowchart-tutorial/)
+
 ## Krypto
 Så snakkede vi faktisk også om kryptering
 
